@@ -17,6 +17,7 @@
         <activity android:name=".Registros"></activity>
         <activity android:name=".Imagenes"></activity>
         <activity android:name=".Image"></activity>
+        <activity android:name=".MedicionView"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

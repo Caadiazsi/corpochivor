@@ -42,7 +42,7 @@ public class Mediciones extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
 
-                Intent intent = new Intent(getApplicationContext(), Medicion.class);
+                Intent intent = new Intent(getApplicationContext(), MedicionView.class);
                 intent.putExtra("Progress", historial.get(position).getProgress());
                 intent.putExtra("Date", historial.get(position).getDate());
                 intent.putExtra("Color", historial.get(position).getColor());
