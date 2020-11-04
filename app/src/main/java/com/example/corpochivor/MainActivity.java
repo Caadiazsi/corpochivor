@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         Button mis_registros = (Button)findViewById(R.id.button_4);
+        mis_registros.setVisibility(View.INVISIBLE);
         mis_registros.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

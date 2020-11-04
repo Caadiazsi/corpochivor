@@ -11,4 +11,7 @@
     <color name="blue_c2">#0867B1</color>
     <color name="green_c1">#04A252</color>
     <color name="green_c2">#73BC44</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FFA500</color>
 </resources>

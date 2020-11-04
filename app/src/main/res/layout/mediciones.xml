@@ -2,5 +2,37 @@
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
     android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="10">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/box"
+            android:text="@string/menu_2"
+            android:textAlignment="center"
+            android:layout_marginHorizontal="20sp"
+            android:textColor="@color/blue_c1"
+            android:textSize="30sp" />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="8"
+            android:layout_margin="20dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
 
+                <ListView
+                    android:id="@+id/list_historial"
+                    android:layout_width="match_parent"
+                    android:layout_height="633dp"></ListView>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
