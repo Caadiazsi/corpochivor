@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Corpochivor</string>
+    <string name="logo_description">Logo de Corpochivor</string>
+    <string name="menu_1">Nueva Medición</string>
+    <string name="menu_2">Mis Mediciones</string>
+    <string name="menu_3">Colección de Imágenes</string>
+    <string name="menu_4">Mis Registros</string>
+    <string name="mi_1">Baetidae</string>
+    <string name="mi_2">Calamoceratidae</string>
+    <string name="mi_3">Ceratopogonidae</string>
+    <string name="mi_4">Chironomidae</string>
+    <string name="mi_5">Ditiscidae</string>
+    <string name="mi_6">Elmidae</string>
+    <string name="mi_7">Empididae</string>
+    <string name="mi_8">Helico</string>
+    <string name="mi_9">Hyalellidae</string>
+    <string name="mi_10">Hydrobiosidae</string>
+    <string name="mi_11">Hydroptilidae</string>
+    <string name="mi_12">Leptoceridae</string>
+    <string name="mi_13">Leptohyphydae</string>
+    <string name="mi_14">Limoniidae</string>
+    <string name="mi_15">Ipyophlebiidae</string>
+    <string name="mi_16">Nematoda</string>
+    <string name="mi_17">Odontoceridae</string>
+    <string name="mi_18">Oligochaeta</string>
+    <string name="mi_19">Ostracoda</string>
+    <string name="mi_20">Planariidae</string>
+    <string name="mi_21">Ptilodactylidae</string>
+    <string name="mi_22">Simuliidae</string>
+    <string name="mi_23">Sphaeriidae</string>
+    <string name="mi_24">Tipulidae</string>
+</resources>
